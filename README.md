@@ -1,5 +1,5 @@
 # restaurant_management
 
-master branch
+dev branch
 
 micro-service and cloud computing
